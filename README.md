@@ -1,6 +1,6 @@
 # Учебный групповой проект "YaMDb"
 
-![example workflow](https://github.com/impisuperstar/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![example workflow](https://github.com/impisuperstar/yamdb_final/actions/workflows/yamdb_workflow.yaml/badge.svg)
 
 
 ## Авторы
@@ -65,28 +65,28 @@ YaMDB отправляет письмо с кодом подтверждения
 ________________________________________________________________________
 Примеры запросов к API:
 
-Получение списка всех категорий и добавление новой категории: http://127.0.0.1:8000/api/v1/categories/
+Получение списка всех категорий и добавление новой категории: http://185.12.28.78:80/api/v1/categories/
 
-Удаление категории: http://127.0.0.1:8000/api/v1/categories/{slug}/
+Удаление категории: http://185.12.28.78:80/api/v1/categories/{slug}/
 
-Получение списка всех жанров и добавление жанра: http://127.0.0.1:8000/api/v1/genres/
+Получение списка всех жанров и добавление жанра: http://185.12.28.78:80/api/v1/genres/
 
-Удаление жанра: http://127.0.0.1:8000/api/v1/genres/{slug}/
+Удаление жанра: http://185.12.28.78:80/api/v1/genres/{slug}/
 
-Получение списка всех произведений и добавление произведения: http://127.0.0.1:8000/api/v1/titles/
+Получение списка всех произведений и добавление произведения: http://185.12.28.78:80/api/v1/titles/
 
-Получение информации о произведении и частичное обновление информации о произведении: http://127.0.0.1:8000/api/v1/titles/{titles_id}/
+Получение информации о произведении и частичное обновление информации о произведении: http://185.12.28.78:80/api/v1/titles/{titles_id}/
 
-Удаление произведения: http://127.0.0.1:8000/api/v1/titles/{titles_id}/
+Удаление произведения: http://185.12.28.78:80/api/v1/titles/{titles_id}/
 
-Добавление нового отзыва: http://127.0.0.1:8000/api/v1/titles/{title_id}/reviews/
+Добавление нового отзыва: http://185.12.28.78:80/api/v1/titles/{title_id}/reviews/
 
-Полуение отзыва по id: http://127.0.0.1:8000/api/v1/titles/{title_id}/reviews/{review_id}/
+Полуение отзыва по id: http://185.12.28.78:80/api/v1/titles/{title_id}/reviews/{review_id}/
 
-Получение списка всех комментариев к отзыву и добавление комментария к отзыву: http://127.0.0.1:8000/api/v1/titles/{title_id}/reviews/{review_id}/comments/
+Получение списка всех комментариев к отзыву и добавление комментария к отзыву: http://185.12.28.78:80/api/v1/titles/{title_id}/reviews/{review_id}/comments/
 
-Удаление комментария к отзыву: http://127.0.0.1:8000/api/v1/titles/{title_id}/reviews/{review_id}/comments/{comment_id}/
+Удаление комментария к отзыву: http://185.12.28.78:80/api/v1/titles/{title_id}/reviews/{review_id}/comments/{comment_id}/
 
 ## Документация к API:
 
-http://127.0.0.1:8000/redoc/
+http://185.12.28.78:80/redoc/
