@@ -1,6 +1,6 @@
 # Учебный групповой проект "YaMDb"
 
-[![example workflow](https://github.com/impisuperstar/yamdb%20final/workflows/yamdb%20workflow/badge.svg)]
+![example workflow](https://github.com/impisuperstar/yamdb%20final/workflows/yamdb%20workflow/badge.svg)
 
 ## Авторы
 - [Mikhail Sizov] (https://github.com/impisuperstar/)
