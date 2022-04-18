@@ -1,6 +1,6 @@
 # Учебный групповой проект "YaMDb"
 
-![ example workflow ](https://github.com/impisuperstar/yamdb_final/actions/workflows/yamdb_workflow/badge.svg)
+![ example workflow ](https://github.com/impisuperstar/yamdb_final/actions/workflows/Django-app%20workflow/badge.svg)
 
 ## Авторы
 - [Mikhail Sizov] (https://github.com/impisuperstar/)
